@@ -6,14 +6,6 @@ This project focuses on optimizing prices for iPhone cases using advanced statis
 
 By analyzing sales data and applying Generalized Additive Models (GAMs), we capture the non-linear relationships between price, quantity sold, and events, allowing for nuanced price recommendations.
 
-## Table of Contents
-
-1. [Data Preparation](https://www.notion.so/1321f411084880a0ba89edcd57cba372?pvs=21)
-2. [Exploratory Analysis](https://www.notion.so/1321f411084880a0ba89edcd57cba372?pvs=21)
-3. [Modeling with Generalized Additive Models (GAMs)](https://www.notion.so/1321f411084880a0ba89edcd57cba372?pvs=21)
-4. [Event Analysis and Price Optimization](https://www.notion.so/1321f411084880a0ba89edcd57cba372?pvs=21)
-5. [Results and Visualization](https://www.notion.so/1321f411084880a0ba89edcd57cba372?pvs=21)
-
 ---
 
 ### Data Preparation
